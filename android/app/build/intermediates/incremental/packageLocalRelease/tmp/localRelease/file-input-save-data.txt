@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Dec 11 14:24:03 EET 2018
+0.baseType=DIRECTORY
+0.base=/Users/new/Documents/Kotlin Test App ISA ISA/android/app/build/intermediates/transforms/dexMerger/local/release/0
+0.path=classes.dex
+0.set=DEX
+count=1

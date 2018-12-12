@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/new/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/af9b03a0423df439e76680b4971c976e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.florent37:shapeofview:1.3.2] /Users/new/.gradle/caches/transforms-1/files-1.1/shapeofview-1.3.2.aar/e5e88b9440d158eac6e1d46ebe7eff3b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9259a3a43a8ce53982370491c2ae8de1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7b24b3b035c0f016861604bbd16f969f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/711e01fc5ef2551d5a9a119328c04432/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/new/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1fb0aec7eecae9e5a3893767e8dab60a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f6525cf09d22dfa497f789e5d1ca88e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/61321e2ec769c325d6ff1d85b31c43e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/331c29c61c4b58a9d23e5317de47c291/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea2d6a51bc9aef61b1e675a64b74169f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6f1c5ea5772ec1ea3f80b6bae25642de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/94c67d77c238dc5750c5045281520e39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/20d4386bc2bd5c5b5f55c29c1417a24f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dd8307756f4498c15cb7165f6db4770d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9472f69a9dee62e3bbd03fd0d3ea3164/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/adf1342f31098ccf3139c1207f659480/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cac3d91d09221a04b0397b1061c24329/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:8:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/new/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1fb0aec7eecae9e5a3893767e8dab60a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/new/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1fb0aec7eecae9e5a3893767e8dab60a/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:11:9-59
+	android:icon
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:16:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:14:9-69
+	android:name
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.github.florent37.sample.ui.MainActivity
+ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:18:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /Users/new/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/af9b03a0423df439e76680b4971c976e/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/new/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/af9b03a0423df439e76680b4971c976e/AndroidManifest.xml:20:5-43
+MERGED from [com.github.florent37:shapeofview:1.3.2] /Users/new/.gradle/caches/transforms-1/files-1.1/shapeofview-1.3.2.aar/e5e88b9440d158eac6e1d46ebe7eff3b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.florent37:shapeofview:1.3.2] /Users/new/.gradle/caches/transforms-1/files-1.1/shapeofview-1.3.2.aar/e5e88b9440d158eac6e1d46ebe7eff3b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9259a3a43a8ce53982370491c2ae8de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/9259a3a43a8ce53982370491c2ae8de1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7b24b3b035c0f016861604bbd16f969f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7b24b3b035c0f016861604bbd16f969f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/711e01fc5ef2551d5a9a119328c04432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/711e01fc5ef2551d5a9a119328c04432/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/new/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1fb0aec7eecae9e5a3893767e8dab60a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/new/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/1fb0aec7eecae9e5a3893767e8dab60a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f6525cf09d22dfa497f789e5d1ca88e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f6525cf09d22dfa497f789e5d1ca88e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/61321e2ec769c325d6ff1d85b31c43e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/61321e2ec769c325d6ff1d85b31c43e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/331c29c61c4b58a9d23e5317de47c291/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/331c29c61c4b58a9d23e5317de47c291/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea2d6a51bc9aef61b1e675a64b74169f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ea2d6a51bc9aef61b1e675a64b74169f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6f1c5ea5772ec1ea3f80b6bae25642de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6f1c5ea5772ec1ea3f80b6bae25642de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/94c67d77c238dc5750c5045281520e39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/94c67d77c238dc5750c5045281520e39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/20d4386bc2bd5c5b5f55c29c1417a24f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/new/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/20d4386bc2bd5c5b5f55c29c1417a24f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dd8307756f4498c15cb7165f6db4770d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/dd8307756f4498c15cb7165f6db4770d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9472f69a9dee62e3bbd03fd0d3ea3164/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9472f69a9dee62e3bbd03fd0d3ea3164/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/adf1342f31098ccf3139c1207f659480/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/adf1342f31098ccf3139c1207f659480/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cac3d91d09221a04b0397b1061c24329/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/new/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/cac3d91d09221a04b0397b1061c24329/AndroidManifest.xml:20:5-44
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/AndroidManifest.xml

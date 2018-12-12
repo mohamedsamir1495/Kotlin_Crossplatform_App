@@ -1,2 +1,10 @@
-include ':app'
-include ':SharedCode'
+rootProject.name = 'Kotlin_Cross_Platform_APP'
+
+enableFeaturePreview('GRADLE_METADATA')
+
+//include 'backend'
+include 'common'
+
+if (INCLUDE_ANDROID == "true") {
+    include 'android', 'android:app'
+}

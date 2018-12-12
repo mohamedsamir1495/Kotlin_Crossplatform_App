@@ -1,0 +1,4 @@
+#Tue Dec 11 14:24:02 EET 2018
+base.0=/Users/new/Documents/Kotlin Test App ISA ISA/android/app/build/intermediates/transforms/dexMerger/local/release/0
+path.0=classes.dex
+renamed.0=classes.dex

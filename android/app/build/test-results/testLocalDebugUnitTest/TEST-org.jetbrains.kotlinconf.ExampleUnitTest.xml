@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.jetbrains.kotlinconf.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-11T12:24:41" hostname="New.local" time="0.002">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="org.jetbrains.kotlinconf.ExampleUnitTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":10,"versionName":"1.0.9","enabled":true,"outputFile":"app-prod-release-unsigned.apk","fullName":"prodRelease","baseName":"prod-release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.github.mohamedsamir1495.Kotlin_Crossplatform_App","split":"","minSdkVersion":"16"}}]

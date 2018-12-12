@@ -1,0 +1,3 @@
+# Referenced at /Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/build/intermediates/manifests/full/local/release/AndroidManifest.xml:14
+-keep class com.github.florent37.sample.MainApplication { <init>(...); }
+

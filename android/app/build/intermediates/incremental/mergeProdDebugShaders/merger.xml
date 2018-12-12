@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/main/shaders"/></dataSet><dataSet config="prod"><source path="/Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/prod/shaders"/></dataSet><dataSet config="debug"><source path="/Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/debug/shaders"/></dataSet><dataSet config="prodDebug"><source path="/Users/new/Documents/Kotlin_Cross_Platform_APP/android/app/src/prodDebug/shaders"/></dataSet></merger>
